@@ -1,0 +1,12 @@
+PLAN NANUVI · LAUNCHER
+
+Objetivo:
+- Mantener el icono personalizado de Plan NanuVI.
+- Añadirlo como web app independiente.
+- Abrir automáticamente la app real de Google Apps Script.
+
+Sube estos archivos a una carpeta nueva del repositorio, por ejemplo: launcher/
+Luego abre en iPhone:
+https://villalbanavarrofernando-debug.github.io/plan-running/launcher/
+
+y añádela a pantalla de inicio con “Abrir como app web”.
